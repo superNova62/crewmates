@@ -1,0 +1,17 @@
+.create-citizens {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  gap: 10px;
+  padding: 20px;
+  max-width: 200px;
+}
+
+.field {
+    border: 4px solid green;
+    border-radius: 6px;
+    padding: 7px;
+    background-color: rgba(0, 128, 0, 50%);
+    
+}
